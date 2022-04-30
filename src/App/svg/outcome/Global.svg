@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152.098" height="38" viewBox="0 0 152.098 38">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec1d45;
+        font-size: 32px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-0.044" y1="0.445" x2="1.063" y2="0.451" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7541"/>
+      <stop offset="1" stop-color="#ec1d45"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_4280" data-name="Groupe 4280" transform="translate(-34 1)">
+    <text id="Global" class="cls-1" transform="translate(134.098 31)"><tspan x="-51.68" y="0">Global</tspan></text>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" class="cls-2" d="M16,18A9,9,0,1,0,7,9,9,9,0,0,0,16,18Zm8,2H20.556a10.88,10.88,0,0,1-9.113,0H8a8,8,0,0,0-8,8v1a3,3,0,0,0,3,3H29a3,3,0,0,0,3-3V28A8,8,0,0,0,24,20Z" transform="translate(34 4)"/>
+  </g>
+</svg>

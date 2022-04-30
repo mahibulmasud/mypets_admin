@@ -1,0 +1,132 @@
+.zoom-scale {
+  position: relative;
+  width: 90%;
+  margin: 10px auto;
+}
+
+.zoom-scale__handler {
+  -webkit-appearance: none;
+  display: block;
+  margin: 0 auto;
+  width: calc(100% - 40px);
+  height: 18px;
+  background: transparent;
+}
+
+.zoom-scale__handler:focus::-ms-thumb {
+  border-color: #23395B;
+  box-shadow: 0 0 1px 0px #23395B;
+}
+
+.zoom-scale__handler::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+.zoom-scale__handler::-moz-range-thumb {
+  border-color: #23395B;
+  box-shadow: 0 0 1px 0px #23395B;
+}
+
+.zoom-scale__handler::-webkit-slider-thumb {
+  border-color: #23395B;
+  box-shadow: 0 0 1px 0px #23395B;
+  -webkit-appearance: none;
+  margin-top: -9px;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  display: block;
+  border-radius: 50%;
+  background: #eee;
+  border: 1px solid #23395B;
+}
+
+.zoom-scale__handler::-webkit-slider-thumb:hover {
+  border-color: #3f67a5;
+}
+
+.zoom-scale__handler::-ms-track {
+  width: 100%;
+  cursor: pointer;
+  background: transparent;
+  border-color: transparent;
+  color: transparent;
+}
+
+.zoom-scale__handler::-ms-thumb {
+  margin-top: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  display: block;
+  border-radius: 50%;
+  background: #eee;
+  border: 1px solid #23395B;
+}
+
+.zoom-scale__handler::-ms-thumb:hover {
+  border-color: #070b11;
+}
+
+.zoom-scale__handler::-moz-range-thumb {
+  margin-top: 0;
+  box-sizing: border-box;
+  cursor: pointer;
+  width: 18px;
+  height: 18px;
+  display: block;
+  border-radius: 50%;
+  background: #eee;
+  border: 1px solid #23395B;
+}
+
+.zoom-scale__handler::-moz-range-thumb::-moz-range-thumb:hover {
+  border-color: #070b11;
+}
+
+.zoom-scale__handler::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 1px;
+  cursor: pointer;
+  background: #eee;
+  border: 0;
+}
+
+.zoom-scale__handler::-moz-range-track {
+  width: 100%;
+  height: 1px;
+  cursor: pointer;
+  background: #eee;
+  border: 0;
+}
+
+.zoom-scale__handler::-ms-track {
+  width: 100%;
+  height: 1px;
+  cursor: pointer;
+  background: #eee;
+  border: 0;
+}
+
+.zoom-scale__min, .zoom-scale__max {
+  position: absolute;
+  transition: color 0.3s ease;
+  fill: #23395B;
+}
+
+.zoom-scale__min {
+  left: -12px;
+  top: 0px;
+}
+
+.zoom-scale__max {
+  right: -13px;
+  top: -1px;
+}
+
+.zoom-scale__icon--disabled {
+  fill: #a2b8db;
+}
+/*# sourceMappingURL=ZoomScale.css.map */

@@ -1,0 +1,78 @@
+.contact-container {
+  height: 70px;
+}
+
+.contact-container img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.contact-container h3 {
+  font-size: 0.9em;
+  text-align: left;
+  margin-bottom: 2px;
+}
+
+.contact-container h5 {
+  text-align: left;
+  font-size: 0.8em;
+  margin-bottom: 0;
+}
+
+.chat-box {
+  font-size: medium;
+  width: max-content;
+  position: relative;
+  min-width: 100px;
+  max-width: 55%;
+}
+
+.chat-box .row {
+  font-size: 14px;
+}
+
+.sent {
+  background-color: #F5F5F5;
+}
+
+.recieved {
+  background-color: #C2F3EC;
+}
+
+.chat-tool {
+  height: 70px;
+  padding: 5px;
+}
+
+.chat-tool input {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border: none;
+  color: #3333336e;
+  background-color: #F5F5F5;
+}
+
+.chat-tool i {
+  font-size: 1.8rem;
+}
+
+.add-butoon {
+  width: 75px;
+  height: 75px;
+  z-index: 1000;
+}
+
+.message-image {
+  height: 250px;
+  width: 250px;
+}
+
+@media only screen and (max-width: 748px) {
+  .chat-tool i {
+    font-size: 24px;
+    margin-left: 10px;
+  }
+}
+/*# sourceMappingURL=index.css.map */

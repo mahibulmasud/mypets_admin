@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1670" data-name="Rectangle 1670" width="1920" height="1080" transform="translate(3673 -23485)" fill="#fafafa"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.47" x2="1" y2="0.489" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fafafa"/>
+      <stop offset="0.535" stop-color="#f9f2f3"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_de_masques_32" data-name="Groupe de masques 32" transform="translate(-3673 23485)" clip-path="url(#clip-path)">
+    <path id="Tracé_2379" data-name="Tracé 2379" d="M0,0H1920V1080H0Z" transform="translate(3673 -23485)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_4483" data-name="Groupe 4483" transform="translate(42.591 -19.999)">
+      <path id="Tracé_2372" data-name="Tracé 2372" d="M2618.409,1252.25c208.381,44.015,269.58,330.945,260.968,414.59-9.6,93.25,16.8,242.94,268.82,132.513s79.206,390.177,604.846,319.013c425.764-57.643,602.841,82.615,1048.572,42.7s774.708-575.44,614.01-668.219-266.083-3.168-238.279,100.6,245.745,208.7,611.705,208.7,260.457-528.8,671.414-509.219,369.655,113.156,426.234,199.914,59.034-26.182,39.225-72.406-85.845-73.957-134.709,0-151.878,191.5-7.924,256.211,114.9-2.641,290.55,113.578,561.6,620.729,924.463,208.828c361.773-410.661,150.184-798.473,399.446-748.482" transform="translate(-2847.5 -24617)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="25"/>
+      <g id="Ellipse_744" data-name="Ellipse 744" transform="translate(1376 -23361)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+        <circle cx="150" cy="150" r="150" stroke="none"/>
+        <circle cx="150" cy="150" r="149.5" fill="none"/>
+      </g>
+      <g id="Ellipse_745" data-name="Ellipse 745" transform="translate(52 -23401)" fill="none" stroke="#9418e7" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+        <circle cx="42" cy="42" r="42" stroke="none"/>
+        <circle cx="42" cy="42" r="41.5" fill="none"/>
+      </g>
+      <circle id="Ellipse_743" data-name="Ellipse 743" cx="50.5" cy="50.5" r="50.5" transform="translate(84.512 -22556.889) rotate(90)" fill="#fff"/>
+    </g>
+    <ellipse id="Ellipse_754" data-name="Ellipse 754" cx="80.5" cy="45.5" rx="80.5" ry="45.5" transform="translate(5324 -22448)" fill="#ec1d45" opacity="0.1"/>
+    <ellipse id="Ellipse_755" data-name="Ellipse 755" cx="156.5" cy="111.5" rx="156.5" ry="111.5" transform="translate(5412 -22580)" fill="#ec1d45" opacity="0.1"/>
+    <circle id="Ellipse_756" data-name="Ellipse 756" cx="140" cy="140" r="140" transform="translate(4761 -23625)" fill="#ec1d45" opacity="0.1"/>
+    <path id="Tracé_2375" data-name="Tracé 2375" d="M140,0c77.32,0,122.648,48.481,122.648,125.8S217.32,325.225,140,325.225,0,217.32,0,140A140,140,0,0,1,140,0Z" transform="translate(3533 -22728)" fill="#ec1d45" opacity="0.1"/>
+    <path id="Tracé_2383" data-name="Tracé 2383" d="M396.074-56.4C488.787-178.3,526.558,55.2,869.937,113.568S439.3,389,283,389,0,301.919,0,194.5,303.362,65.5,396.074-56.4Z" transform="translate(3250 -22519)" fill="#585858" opacity="0.19"/>
+  </g>
+</svg>

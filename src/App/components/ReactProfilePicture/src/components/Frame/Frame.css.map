@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,MAAM,CAAC;EACL,QAAQ,EAAE,MAAM;EAChB,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,GAAG,CAAC,KAAK,CEDR,OAAO;EFEhB,MAAM,EAAE,MAAM;CAkBf;;AAhBE,AAAD,cAAS,CAAC;EACR,aAAa,EAAE,GAAG;CACnB;;AAKA,AAAD,sBAAiB,CAAC;EAChB,aAAa,EAAE,GAAG;CACnB;;AAfH,AAiBE,MAjBI,CAiBJ,GAAG,CAAC;EACF,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,IAAI;EACjB,QAAQ,EAAE,QAAQ;CACnB",
+    "sources": [
+        "Frame.scss",
+        "../../sass/_base.scss",
+        "../../sass/_variables.scss",
+        "../../sass/_functions.scss"
+    ],
+    "names": [],
+    "file": "Frame.css"
+}

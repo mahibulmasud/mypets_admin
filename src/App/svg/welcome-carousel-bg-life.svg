@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1668" data-name="Rectangle 1668" width="1920" height="1080" transform="translate(1743 -23485)" fill="#e6fbf7"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" y1="0.462" x2="1" y2="0.481" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6fbf7"/>
+      <stop offset="1" stop-color="#fafafa"/>
+    </linearGradient>
+  </defs>
+  <g id="Groupe_de_masques_30" data-name="Groupe de masques 30" transform="translate(-1743 23485)" clip-path="url(#clip-path)">
+    <path id="Tracé_2378" data-name="Tracé 2378" d="M0,0H1920V1080H0Z" transform="translate(1743 -23485)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_4479" data-name="Groupe 4479" transform="translate(42.591 -19.999)">
+      <path id="Tracé_2372" data-name="Tracé 2372" d="M2618.409,1252.25c208.381,44.015,269.58,330.945,260.968,414.59-9.6,93.25,16.8,242.94,268.82,132.513s79.206,390.177,604.846,319.013c425.764-57.643,602.841,82.615,1048.572,42.7s774.708-575.44,614.01-668.219-266.083-3.168-238.279,100.6,245.745,208.7,611.705,208.7,260.457-528.8,671.414-509.219,369.655,113.156,426.234,199.914,59.034-26.182,39.225-72.406-85.845-73.957-134.709,0-151.878,191.5-7.924,256.211,114.9-2.641,290.55,113.578,561.6,620.729,924.463,208.828c361.773-410.661,150.184-798.473,399.446-748.482" transform="translate(-2847.5 -24617)" fill="none" stroke="#ec1d45" stroke-linecap="round" strokeWidth="1" stroke-dasharray="25"/>
+      <g id="Ellipse_744" data-name="Ellipse 744" transform="translate(1376 -23361)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+        <circle cx="150" cy="150" r="150" stroke="none"/>
+        <circle cx="150" cy="150" r="149.5" fill="none"/>
+      </g>
+      <g id="Ellipse_745" data-name="Ellipse 745" transform="translate(52 -23401)" fill="none" stroke="#9418e7" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+        <circle cx="42" cy="42" r="42" stroke="none"/>
+        <circle cx="42" cy="42" r="41.5" fill="none"/>
+      </g>
+      <circle id="Ellipse_743" data-name="Ellipse 743" cx="50.5" cy="50.5" r="50.5" transform="translate(84.512 -22556.889) rotate(90)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_746" data-name="Ellipse 746" cx="20.5" cy="20.5" r="20.5" transform="translate(3326 -23167)" fill="#fff"/>
+    <circle id="Ellipse_747" data-name="Ellipse 747" cx="38.5" cy="38.5" r="38.5" transform="translate(3363 -23296)" fill="#fff"/>
+    <circle id="Ellipse_748" data-name="Ellipse 748" cx="35" cy="35" r="35" transform="translate(3222 -23317)" fill="#fff"/>
+    <circle id="Ellipse_749" data-name="Ellipse 749" cx="20.5" cy="20.5" r="20.5" transform="matrix(-0.259, 0.966, -0.966, -0.259, 2043.651, -23051.436)" fill="#fff"/>
+    <circle id="Ellipse_750" data-name="Ellipse 750" cx="50.5" cy="50.5" r="50.5" transform="translate(2094.512 -23552.889) rotate(90)" fill="#fff"/>
+    <circle id="Ellipse_751" data-name="Ellipse 751" cx="50.5" cy="50.5" r="50.5" transform="matrix(-0.259, 0.966, -0.966, -0.259, 2189.861, -22937.098)" fill="#fff"/>
+    <circle id="Ellipse_752" data-name="Ellipse 752" cx="59" cy="59" r="59" transform="translate(2320.985 -23214.291) rotate(90)" fill="#fff"/>
+    <path id="Tracé_2382" data-name="Tracé 2382" d="M396.074-56.4C488.787-178.3,526.558,55.2,869.937,113.568S439.3,389,283,389,0,301.919,0,194.5,303.362,65.5,396.074-56.4Z" transform="translate(3240 -22519)" fill="#585858" opacity="0.19"/>
+    <path id="Tracé_2380" data-name="Tracé 2380" d="M1720.638-22590.734c41.418-67.205,84.521-71.221,178.175,19.537s58.791,94.107,325.873,165.672-305.555,57.045-345.41,57.828-182.864,19.537-182.864,11.723S1720.638-22590.734,1720.638-22590.734Z" fill="#585858" opacity="0.1"/>
+    <path id="Tracé_2381" data-name="Tracé 2381" d="M140,0c77.32,0,122.648,48.481,122.648,125.8S217.32,325.225,140,325.225,0,217.32,0,140A140,140,0,0,1,140,0Z" transform="translate(3523 -22728)" fill="#ec1d45" opacity="0.1"/>
+  </g>
+</svg>

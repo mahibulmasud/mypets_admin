@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Tracé_2448" data-name="Tracé 2448" d="M0,0H1920V1080H0Z" transform="translate(-5160 -19525)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="welcome-pricing-bg" transform="translate(5160 19525)" clip-path="url(#clip-path)">
+    <path id="Tracé_2446" data-name="Tracé 2446" d="M0,0H1920V1080H0Z" transform="translate(-5160 -19525)" fill="#fff"/>
+    <path id="Tracé_2445" data-name="Tracé 2445" d="M4561,969.779s-49.523,181.214-366.648,181.214,419.058,84.944,419.058,84.944l-20.764-309.574Z" transform="translate(-595.201 -18364.285) rotate(180)" fill="#515151" opacity="0.1"/>
+    <ellipse id="Ellipse_780" data-name="Ellipse 780" cx="664.5" cy="214.5" rx="664.5" ry="214.5" transform="translate(-3240.201 -19398.285) rotate(180)" fill="#333" opacity="0.11"/>
+    <path id="Tracé_2447" data-name="Tracé 2447" d="M2358.339,5096.9s282.29,43.712,325.523,190.715-20.345,141.2,99.183,247.584-40.69,361.706-350.955,286.27S2358.339,5096.9,2358.339,5096.9Z" transform="translate(-861.196 -13497.834) rotate(180)" fill="#f5f5f5"/>
+    <g id="Ellipse_781" data-name="Ellipse 781" transform="translate(-4068 -19411)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+      <ellipse cx="100" cy="99.5" rx="100" ry="99.5" stroke="none"/>
+      <ellipse cx="100" cy="99.5" rx="99.5" ry="99" fill="none"/>
+    </g>
+    <g id="Ellipse_782" data-name="Ellipse 782" transform="translate(-3709 -18964)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+      <circle cx="150" cy="150" r="150" stroke="none"/>
+      <circle cx="150" cy="150" r="149.5" fill="none"/>
+    </g>
+    <g id="Ellipse_783" data-name="Ellipse 783" transform="translate(-5060 -19310)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+      <ellipse cx="101" cy="98" rx="101" ry="98" stroke="none"/>
+      <ellipse cx="101" cy="98" rx="100.5" ry="97.5" fill="none"/>
+    </g>
+    <g id="Ellipse_784" data-name="Ellipse 784" transform="translate(-4657 -18844)" fill="none" stroke="#ec1d45" stroke-linecap="round" stroke-width="1" stroke-dasharray="5 10">
+      <circle cx="150" cy="150" r="150" stroke="none"/>
+      <circle cx="150" cy="150" r="149.5" fill="none"/>
+    </g>
+  </g>
+</svg>

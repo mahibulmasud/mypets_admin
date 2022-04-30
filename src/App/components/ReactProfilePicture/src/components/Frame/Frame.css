@@ -1,0 +1,21 @@
+.frame {
+  overflow: hidden;
+  position: relative;
+  border: 1px solid #00B2CA;
+  margin: 0 auto;
+}
+
+.frame--circle {
+  border-radius: 50%;
+}
+
+.frame--rounded-square {
+  border-radius: 4px;
+}
+
+.frame img {
+  display: none;
+  user-select: none;
+  position: relative;
+}
+/*# sourceMappingURL=Frame.css.map */

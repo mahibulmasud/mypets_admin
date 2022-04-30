@@ -1,0 +1,40 @@
+.message {
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0;
+  bottom: 0;
+  color: #23395B;
+  text-align: center;
+  z-index: 3;
+  user-select: none;
+  background: #FFF;
+}
+
+.message__content {
+  position: absolute;
+  left: 5px;
+  right: 5px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.message__text {
+  padding: 0;
+  font-size: 0.9em;
+}
+
+.message__button {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+}
+/*# sourceMappingURL=Message.css.map */

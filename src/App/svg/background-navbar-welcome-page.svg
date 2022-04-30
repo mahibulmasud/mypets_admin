@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="462" viewBox="0 0 1920 462">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1488" data-name="Rectangle 1488" width="1920" height="462" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.032" y1="0.628" x2="0.972" y2="0.652" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#13e2ba"/>
+      <stop offset="1" stop-color="#13e2e2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.258" y1="0.705" x2="1.096" y2="0.783" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Groupe_de_masques_8" data-name="Groupe de masques 8" clipPath="url(#clip-path)">
+    <path id="Tracé_1" data-name="Tracé 1" d="M2419.155,455.564c-144.86-11.172-98.734-145.829-284.611-148.312-138.663-1.852-184.551,44-355.156,41.527-234.66-.617-128.3-170.035-423.808-125.456S979.109,85.5,810.254,42.534,419.993-40.716,419.993-40.716L2613.34-28.3Z" transform="translate(-493 -29)" opacity="0.6" fill="url(#linear-gradient)"/>
+    <path id="Tracé_1-2" data-name="Tracé 1" d="M2418.1,220.5c-144.86-11.5-115.407-58.409-301.284-60.965-138.663-1.907-243.538,53.915-363.583,53.59-40.505-.11-106.215-18.683-130.726-25.074-178.387-67.848-314.243-17.385-492.8-28.516s-129.174-88.5-298.029-132.747-411.686-67.5-411.686-67.5L2613.34-27.933Z" transform="translate(-493 -29)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

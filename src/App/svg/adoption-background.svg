@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1740" data-name="Rectangle 1740" width="1920" height="1080" transform="translate(-7395 -7976)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1739" data-name="Rectangle 1739" width="2158" height="1015" transform="translate(0.881)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.032" y1="0.628" x2="0.972" y2="0.652" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#13e2ba"/>
+      <stop offset="1" stop-color="#13e2e2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.258" y1="0.705" x2="1.096" y2="0.783" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="adoption-background" transform="translate(7395 7976)" clip-path="url(#clip-path)">
+    <g id="Groupe_de_masques_52" data-name="Groupe de masques 52" transform="translate(-7633.881 -7976)" opacity="0.39" clip-path="url(#clip-path-2)">
+      <path id="Tracé_2449" data-name="Tracé 2449" d="M2667.892,1020.487c-162.884-23.89-111.019-311.828-320.022-317.137-155.915-3.96-207.513,94.094-399.344,88.8-263.856-1.319-144.259-363.588-476.539-268.265S1048.674,229.181,858.81,137.3,419.993-40.716,419.993-40.716L2886.237-14.172Z" transform="translate(-502.09 -80.47)" opacity="0.6" fill="url(#linear-gradient)"/>
+      <path id="Tracé_2450" data-name="Tracé 2450" d="M2666.705,501.7c-162.884-23.89-129.766-121.286-338.77-126.594-155.915-3.96-273.839,111.956-408.82,111.281-45.545-.227-119.431-38.8-146.991-52.067-200.582-140.887-344.818-33.486-555.812-38.8S1072.766,191.34,882.9,99.457,419.993-40.716,419.993-40.716L2886.237-14.172Z" transform="translate(-502.09 -80.47)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>

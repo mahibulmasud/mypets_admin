@@ -1,0 +1,98 @@
+.popup-edit-profile-picture {
+    width: 100%;
+    min-width: 500px;
+    height: 100%;
+    padding: 2rem 3rem;
+    align-items: center;
+}
+
+.popup-edit-profile-picture-header {
+    text-align: center;
+    color: #13e2ba;
+}
+.pac-container {
+    z-index: 1150;
+}
+
+.btn-mpl-alert {
+    font-family: Montserrat, sans-serif;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid #fd6a41;
+    padding: .375rem 1.5rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    color: #fff;
+    background: linear-gradient(90deg, #FF7541 0%, #EC1D45 100%);
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.btn-mpl-alert:active {
+    border-color: rgba(226, 19, 59, 1);
+    background: linear-gradient(90deg, rgba(240, 82, 56, 1) 0%, rgb(186, 19, 59) 100%);
+    box-shadow: 0 0 0 0.2rem rgba(180, 23, 54, 0.5);
+}
+
+.btn-mpl-alert:focus {
+    border-color: rgba(226, 19, 59, 1);
+    outline: none;
+    background: linear-gradient(90deg, rgba(240, 82, 56, 1) 0%, rgba(186, 19, 59, 1) 100%);
+    box-shadow: 0 0 0 0.2rem rgba(180, 23, 54, 0.5);
+}
+
+.btn-mpl-alert:hover {
+    background: linear-gradient(90deg, rgba(240, 82, 56, 1) 0%, rgba(186, 19, 59, 1) 100%);
+}
+
+@media (max-width: 992px) {
+    .popup-edit-profile-picture {
+        min-width: auto;
+    }
+}
+
+@media (max-width: 425px) {
+    .popup-edit-profile-picture {
+        padding: 1rem;
+    }
+}
+
+
+.YpD9o6H9LydyYmaPWOwt {
+    transition: .2s ease-in-out;
+}
+
+.YpD9o6H9LydyYmaPWOwt:hover {
+    background-color: rgba(19, 226, 186, 0.25);
+}
+
+.kWobJZ5IBLVJtFBD9JHAQ:focus {
+    outline: none;
+}
+
+.eXEoGG26iwSi6UiZD8FI6:focus {
+    outline: none;
+}
+
+.fe6xZVPr1kb0CJksW39zV {
+    margin: 0;
+}
+
+._23VzqtDiBsdmyddgDcP2FF, ._2JJI18xT4B0iIKyuZLMpk9 {
+    fill: #1de9b6 !important;
+}
+
+.Icon--trash {
+    fill: #333333;
+}
+
+._2JJI18xT4B0iIKyuZLMpk9 {
+    transform: scale(1.5);
+}
